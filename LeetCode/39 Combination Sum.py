@@ -16,7 +16,7 @@ class Solution:
         return None
 
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        candidates.sort()
+        # candidates.sort()
         res = []
         self.find_combination(candidates, target, 0, [], res)
         return res
