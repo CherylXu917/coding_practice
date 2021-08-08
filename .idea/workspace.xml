@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6f4813e-aa84-4cef-8c11-d4529239fbb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/85. Maximal Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1428. Leftmost Column with at Least a One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1570. Dot Product of Two Sparse Vectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1650. Lowest Common Ancestor of a Binary Tree III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/1762. Buildings With an Ocean View.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/249. Group Shifted Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/314. Binary Tree Vertical Order Traversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/426 convert binary tree to double linked list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/426 convert binary tree to double linked list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,101 +60,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/5. Longest Palindromic Substring.py">
+      <file leaf-file-name="426 convert binary tree to double linked list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/426 convert binary tree to double linked list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="1860">
+              <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/7 Reverse Integer.py">
+      <file leaf-file-name="1650. Lowest Common Ancestor of a Binary Tree III.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1650. Lowest Common Ancestor of a Binary Tree III.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="408">
+              <caret line="63" column="15" lean-forward="true" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/39 Combination Sum.py">
+      <file leaf-file-name="314. Binary Tree Vertical Order Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/314. Binary Tree Vertical Order Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="273">
+              <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/101. Symmetric Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
-              <folding>
-                <marker date="1571160939997" expanded="true" signature="963:968" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/85. Maximal Rectangle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise/find_min_route.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
-              <folding>
-                <marker date="1571206785318" expanded="true" signature="139:144" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/jungle book.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <marker date="1571159105760" expanded="true" signature="89:94" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="36 Valid Sudoku.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/36 Valid Sudoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="349">
+              <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py">
+      <file leaf-file-name="flatten_array.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/flatten_array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="214">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1570. Dot Product of Two Sparse Vectors.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1570. Dot Product of Two Sparse Vectors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1762. Buildings With an Ocean View.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1762. Buildings With an Ocean View.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="333 Largest BST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/333 Largest BST.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="249. Group Shifted Strings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/249. Group Shifted Strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1428. Leftmost Column with at Least a One.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/1428. Leftmost Column with at Least a One.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -180,8 +174,6 @@
         <option value="$PROJECT_DIR$/LeetCode/53. Maximum Subarray.py" />
         <option value="$PROJECT_DIR$/LeetCode/53 Maximum Subarray.py" />
         <option value="$PROJECT_DIR$/LeetCode/5. Longest Palindromic Substring.py" />
-        <option value="$PROJECT_DIR$/LeetCode/7 Reverse Integer.py" />
-        <option value="$PROJECT_DIR$/LeetCode/36 Valid Sudoku.py" />
         <option value="$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py" />
         <option value="$PROJECT_DIR$/HackerRank/jungle book.py" />
         <option value="$PROJECT_DIR$/LeetCode/101. Symmetric Tree.py" />
@@ -190,6 +182,16 @@
         <option value="$PROJECT_DIR$/exercise/k_means.py" />
         <option value="$PROJECT_DIR$/exercise/find_min_route.py" />
         <option value="$PROJECT_DIR$/LeetCode/85. Maximal Rectangle.py" />
+        <option value="$PROJECT_DIR$/LeetCode/7 Reverse Integer.py" />
+        <option value="$PROJECT_DIR$/LeetCode/36 Valid Sudoku.py" />
+        <option value="$PROJECT_DIR$/LeetCode/flatten_array.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1570. Dot Product of Two Sparse Vectors.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1762. Buildings With an Ocean View.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1428. Leftmost Column with at Least a One.py" />
+        <option value="$PROJECT_DIR$/LeetCode/426 convert binary tree to double linked list.py" />
+        <option value="$PROJECT_DIR$/LeetCode/1650. Lowest Common Ancestor of a Binary Tree III.py" />
+        <option value="$PROJECT_DIR$/LeetCode/314. Binary Tree Vertical Order Traversal.py" />
+        <option value="$PROJECT_DIR$/LeetCode/249. Group Shifted Strings.py" />
       </list>
     </option>
   </component>
@@ -199,10 +201,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1640" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
-    <option name="width" value="1896" />
+    <option name="width" value="1680" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -213,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,23 +233,12 @@
             <path>
               <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding_practice" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,33 +345,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1944" y="23" width="1896" height="1577" extended-state="0" />
+    <frame x="0" y="25" width="1680" height="1025" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176915" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32929292" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.44107744" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929292" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.36008677" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="Remote Host" order="4" />
-      <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,6 +382,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LeetCode/7 Reverse Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/39 Combination Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/36 Valid Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/TwoSum.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode/1 TwoSum.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -428,13 +444,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise/k_means.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise/k_means.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode/3 Longest Substring Without Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -442,82 +452,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/5. Longest Palindromic Substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/5. Longest Palindromic Substring.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode/7 Reverse Integer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py" />
+    <entry file="file://$PROJECT_DIR$/exercise/find_min_route.py" />
+    <entry file="file://$PROJECT_DIR$/HackerRank/jungle book.py" />
+    <entry file="file://$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py" />
+    <entry file="file://$PROJECT_DIR$/LeetCode/101. Symmetric Tree.py" />
+    <entry file="file://$PROJECT_DIR$/LeetCode/85. Maximal Rectangle.py" />
     <entry file="file://$PROJECT_DIR$/LeetCode/39 Combination Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/40. Combination Sum II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise/find_min_route.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <marker date="1571206785318" expanded="true" signature="139:144" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/jungle book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <marker date="1571159105760" expanded="true" signature="89:94" ph="..." />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/36 Valid Sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="349">
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/986. Interval List Intersections.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/flatten_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="214">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/101. Symmetric Tree.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/1570. Dot Product of Two Sparse Vectors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
-          <folding>
-            <marker date="1571160939997" expanded="true" signature="963:968" ph="..." />
-          </folding>
+        <state relative-caret-position="348">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/85. Maximal Rectangle.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/1762. Buildings With an Ocean View.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="183">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1428. Leftmost Column with at Least a One.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/426 convert binary tree to double linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/1650. Lowest Common Ancestor of a Binary Tree III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="63" column="15" lean-forward="true" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/314. Binary Tree Vertical Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/333 Largest BST.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/249. Group Shifted Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
